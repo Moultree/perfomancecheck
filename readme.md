@@ -76,3 +76,5 @@ For run a test you should configure in every HTTP-requests:
 - Listeners: Summary Report and View Results Tree
 - Action to be taken after a sampler error: STOP THREAD 
 - Delay Thread Creation until needed
+
+Or just use template in path: src/main/resources/test plan.jmx
